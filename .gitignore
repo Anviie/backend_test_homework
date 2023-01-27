@@ -1,2 +1,4 @@
 # Ignore all file with .doc extension
 *.doc
+
+*.venv
